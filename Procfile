@@ -1,0 +1,1 @@
+web: ./xray run
